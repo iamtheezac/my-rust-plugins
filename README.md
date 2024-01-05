@@ -1,1 +1,1 @@
-# my-rust-plugins
+# rust-plugins
